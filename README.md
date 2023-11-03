@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DeepAryanSharma
+- 👋 Hi, I’m Deep Aryan Sharma
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning DSA and MERN Stack
 - 📫 Feel free to reach me on https://www.linkedin.com/in/deep-aryan-sharma-2a781a225/
