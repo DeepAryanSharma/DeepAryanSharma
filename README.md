@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Deep Aryan Sharma
 
-👀 **I’m interested in Software Development Web Development and Cloud Computing**  
+👀 **I’m interested in Software Development, Web Development and Cloud Computing**  
 🌱 **I’m currently learning DSA, MERN Stack and AWS**  
 🔭 **My LeetCode profile:** [https://leetcode.com/u/deep_aryan_sharma/](https://leetcode.com/u/deep_aryan_sharma/)
 
